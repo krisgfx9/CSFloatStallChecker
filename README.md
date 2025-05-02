@@ -10,8 +10,8 @@ And yes its made for multiple accounts.
 - Detects sold items from one or more CSFloat accounts
 - Sends notifications to Discord via webhook
 - Includes item name, price, condition, and image
-- Tags your Discord user when an item sells
-- Automatically runs every 15 minutes
+- Tags you on Discord if something is sold
+- Automatically runs every 15 minutes (This can be changed)
 
 ---
 
